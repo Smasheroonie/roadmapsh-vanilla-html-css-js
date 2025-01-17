@@ -39,3 +39,7 @@ h3 {
   line-height: 1.1;
   text-wrap: balance;
 }
+
+header {
+  border-bottom: solid;
+}
